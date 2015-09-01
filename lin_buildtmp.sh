@@ -5,3 +5,6 @@ g++ -o tmp1 tmp1.cpp
 #del3
 #del4
 #del55555555
+#del6
+#del7
+
