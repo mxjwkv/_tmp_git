@@ -7,4 +7,4 @@ g++ -o tmp1 tmp1.cpp
 #del55555555
 #del6
 #del7
-
+#del8
