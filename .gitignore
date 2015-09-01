@@ -35,6 +35,7 @@
 *.exe
 *.out
 *.app
+*
 
 # Other
 Thumbs.db
