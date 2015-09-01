@@ -8,3 +8,4 @@ g++ -o tmp1 tmp1.cpp
 #del6
 #del7
 #del8
+#del9
